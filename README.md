@@ -1,5 +1,8 @@
+# DISCLAIMER
+**This repository is about SAS the assembly language, not for some weird abomination with similar name.**
+
 # Quick history
-SAS (System Adresów Symbolicznych (Symbolic Addresses System)) - a macroassembler for family of computers ZAM and XYZ.
+SAS (System Adresów Symbolicznych (Symbolic Addresses System)) - an assembly language for family of computers ZAM and XYZ.  
 
 # Why?
 Why am I creating this repository? For fun. I had some time off and was bored.<br>
