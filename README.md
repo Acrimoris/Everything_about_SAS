@@ -12,10 +12,7 @@ Sorry for the bad quality of the files. I had to reduce their size because of ho
 If you don't know Polish, the English materials are in files:
 - Algorytmy_Vol.1_No.1_PAN
 - One summary in Algorytmy_Vol.1_No.2_PAN
-- Arithmetic_Formulae_and_the_Use_of_Subroutines_in_SAKO_(A._W._Mazurkiewicz)
 - Some_Results_of_Research_on_Automatic_Programming_in_Eastern_Europe_(Wladyslaw_Turski)
-
-Note, that because authors wanted to make SAKO, and its documentation easier to understand, the commands in English articles are in English. However, those were probably never implemented and used.
 
 # Thanks
 I would like to thank especially all of the authors of the documents, redactors and helpers. Also big thanks to the creators of SAKO, and other people participating in it's creation.<br>
