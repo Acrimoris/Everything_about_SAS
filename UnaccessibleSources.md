@@ -4,7 +4,6 @@ Here are mentioned sources that are unaccessible to me right now. (They probably
 # Sources
 "Zasady programowania EMC ZAM-41 w języku SAS" Z. Dąbrowski, B. Gadek, J. Szyc, 1971  
 Politechnika Wrocławska  
-https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma9912906011005606&context=L&vid=48OMNIS_NLOP:48OMNIS_NLOP&lang=en&search_scope=NLOP_IZ_NZ&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=title,exact,ZAM-41%20&offset=0
   
 ?? "A method of addressing used in SAKO-SAS translations", A. P. Yershov  
 
