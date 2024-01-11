@@ -40,4 +40,4 @@ Algorytmy Vol. 3 No. 6 (Instytut Maszyn Matematycznych PAN) - https://delibra.bg
 "ZAM-41 Kompendium oprogramowania" (Jan Wierzbowski) - https://historiainformatyki.pl/dokument.php?nonav=&nrar=14&nrzesp=1&sygn=XIV%2F1%2F4&handle=1  
 
 # Contact
-If you have any information about SAKO not included here, any good suggestion, or something to tell or ask me, feel free to send me an e-mail.
+If you have any information about SAS not included here, any good suggestion, or something to tell or ask me, feel free to send me an e-mail.
